@@ -34,7 +34,7 @@ namespace WebApplication8
             }
             else
             {
-                Label3.Text = "Time's up!!";
+                Label2.Text = "Time's up!!";
             }
            
            
